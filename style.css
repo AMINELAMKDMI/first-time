@@ -8,6 +8,8 @@ body{
     background-color: aqua
 }
 .barre_recherche{
+    height: 100px;
+    width:  500px;
     background-color: blueviolet;
 }
 .botton_recherche{
@@ -19,7 +21,13 @@ body{
 
 }
 .button1{
-    height: 2px;
-    width:  5px;
+    height: 78px;
+    width:  500px;
     background-color: black;
 }
+#search1{
+    width: 20rem;
+    height: 3rem;
+    
+}
+
