@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+.header{
+    background-color: white;
+}
+.logo{
+    background-color: aqua
+}
+.barre_recherche{
+    background-color: blueviolet;
+}
+.botton_recherche{
+    background-color: green
+
+}
+.button1{
+    background-color: yellow
+
+}
+.button1{
+    height: 2px;
+    width:  5px;
+    background-color: black;
+}
