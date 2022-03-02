@@ -1,33 +1,204 @@
-body{
-    background-color: red;
-}
 .header{
-    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    background-color: brown;
 }
 .logo{
-    background-color: aqua
+    display: flex;
 }
-.barre_recherche{
-    height: 100px;
-    width:  500px;
-    background-color: blueviolet;
+#logoimg{
+    position: relative;
+    width: 70px;
+    height: 50px;
+    left: 54px;
+    top: 48px;
+}
+.logo_title{
+    position: absolute;
+    color: white;
+    width: 130px;
+    height: 48px;
+    left: 99px;
+    top: 53px;
+}
+spane{
+    color: blue;
+}
+.search{
+    display: flex;
+}
+
+#search1{
+    position: absolute;
+    width: 734px;
+    height: 50px;
+    left: 297px;
+    top: 55px;
+    border : 2px solid;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    padding: 8px;
+}
+#imagebr{
+    position:absolute;
+    width: 54px;
+    height: 48px;
+    left: 1031px;
+    top: 55px;
+}
+#iconbr{
+    position:absolute;
+    width: 37.5px;
+    height: 36.5px;
+    left: 1040px;
+    top: 60px;
+}
+
+
+
+
+
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+background-color: red;
+}
+.search{
+display: flex;
 }
 .botton_recherche{
-    background-color: green
-
+    display: flex;
+    position: relative;
+}
+.icon_br{
+    position: absolute;
+    left: 2.5rem;
+    top: 1rem;
+}
+.buttons{
+    display: flex;
 }
 .button1{
-    background-color: yellow
-
+    text-align: center;
 }
-.button1{
-    height: 78px;
-    width:  500px;
-    background-color: black;
+.icon_button1{
+}
+.logo{
+    display: flex;
+}
+.logo_image{
+    position: relative;
+}
+.logo_title{
+    position: absolute;
+    color: white;
+}
+spane{
+    color: blue;
+} */
+/* .logo_image{
+    position: absolute;
+    width: 70px;
+    height: 50px;
+    left: 54px;
+    top: 48px;
+}
+#logo{
+    width: 5px;
+}
+.logo_title{
+    position: absolute;
+    width: 130px;
+    height: 48px;
+    left: 60px;
+    top: 45px;
 }
 #search1{
-    width: 20rem;
-    height: 3rem;
-    
+    position: absolute;
+    width: 734px;
+    height: 50px;
+    left: 297px;
+    top: 37px;
+    border : 2px solid;
+    border-radius: 8px;
+    padding: 5px;
 }
-
+.image_br{
+    position:absolute;
+    width: 54px;
+    height: 48px;
+    left: 1031px;
+    top: 38px;
+}
+.icon_br{
+    position:absolute;
+    width: 37.5px;
+    height: 36.5px;
+    left: 1040px;
+    top: 44px;
+}
+.image_button1{
+    position:absolute;
+    width: 70px;
+    height: 50px;
+    left: 1105px;
+    top: 37px;
+}
+.icon_button1{
+    position:absolute;
+    width: 36px;
+    height: 36px;
+    left: 1122px;
+    top: 44px;
+}
+.title_button1{
+    position:absolute;
+    width: 42px;
+    height: 16px;
+    left: 1119px;
+    top: 91px;
+}
+.image_button2{
+    position:absolute;
+    width: 70px;
+    height: 50px;
+    left: 1195px;
+    top: 37px;
+}
+.icon_button2{
+    position:absolute;
+    width: 36px;
+    height: 36px;
+    left: 1212px;
+    top: 44px;
+}
+.title_button2{
+    position:absolute;
+    width: 42px;
+    height: 16px;
+    left: 1210px;
+    top: 91px;
+}
+.image_button3{
+    position:absolute;
+    width: 70px;
+    height: 50px;
+    left: 1285px;
+    top: 37px;
+}
+.icon_button3{
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    left: 1293px;
+    top: 44px;
+}
+.title_button3{
+    position: absolute;
+    width: 42px;
+    height: 16px;
+    left: 1307px;
+    top: 91px;
+}
+ */
