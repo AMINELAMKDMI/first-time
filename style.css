@@ -28,8 +28,8 @@ spane{
     display: flex;
 }
 
-#search1{
-    position: absolute;
+#search1{  
+    position: absolute; 
     width: 734px;
     height: 50px;
     left: 297px;
@@ -39,20 +39,47 @@ spane{
     border-bottom-left-radius: 8px;
     padding: 8px;
 }
+.botton_recherche{
+    display: flex;
+}
 #imagebr{
-    position:absolute;
-    width: 54px;
+    position:relative;
+    width: 56px;
     height: 48px;
-    left: 1031px;
-    top: 55px;
+    left: 284px;
+    top: 48px;
 }
 #iconbr{
     position:absolute;
     width: 37.5px;
     height: 36.5px;
-    left: 1040px;
+    left: 1038px;
     top: 60px;
 }
+.buttons{
+    display: flex ;
+    text-align: center;
+}
+.button1{
+    display: flex;
+}
+#imgbutton1{
+    position: relative;
+    width: 56px;
+    height: 48px;
+    left: -50px;
+    top: 48px;
+}
+#iconbutton1{
+    position: absolute;
+}
+.title_button1{
+    position: absolute;
+}
+
+
+
+
 
 
 
